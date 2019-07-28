@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCRUD</string>
+    <string name="title_activity_tampilan_semua_pgw">TampilanSemuaPgwActivity</string>
+</resources>
