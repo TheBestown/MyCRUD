@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     String BAND;
     String BAND2;
+    String BAND3;
 
 
     @Override
