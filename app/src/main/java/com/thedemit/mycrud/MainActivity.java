@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button buttonView;
 
     String BAND;
+    String BAND2;
 
 
     @Override
