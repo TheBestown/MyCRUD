@@ -22,10 +22,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button buttonAdd;
     private Button buttonView;
 
-    String BAND;
-    String BAND2;
-    String BAND3;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
